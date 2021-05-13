@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\kambe\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\kambe\\.nuget\\packages"
+    ]
+  }
+}
